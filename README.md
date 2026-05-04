@@ -35,5 +35,5 @@
 > Joining a Session
 <img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/ba1ec392-e2a1-4784-a217-47d23f10c19d" />
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/6cf3dda7-bf59-4689-8adb-f1aa2b8d94ec" />
-(Camera settings turned off for privacy reasons. Microphone and Camera button can be toggled on/off.)
+*(Camera settings turned off for privacy reasons. Microphone and Camera button can be toggled on/off.)*
 > <img width="1322" height="903" alt="image" src="https://github.com/user-attachments/assets/6fe255c8-c4b7-42f6-8c4c-59cc6175acfb" />
