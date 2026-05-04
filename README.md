@@ -1,4 +1,7 @@
 ## **ChimeUpTime**
+### A full-stack video conferencing app with real-time video, audio, screen sharing, live chat, alongside secure user login.
+
+<hr style="border: 1px solid white;">
 
 ⚙️ Built with:
 
@@ -11,3 +14,5 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![WebRTC](https://img.shields.io/badge/WebRTC-%23333333.svg?style=for-the-badge&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+
+<hr style="border: 1px solid white;">
